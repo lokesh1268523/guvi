@@ -1,4 +1,4 @@
-num=int(input("Enter any numberer: "))
+num=int(input("Enter the odd numberer: "))
 x=num/2
 if(x==0):
 	print("is an even number")
