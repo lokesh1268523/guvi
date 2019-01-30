@@ -1,8 +1,8 @@
 x=input()
 x=int(x)
 if(x<0):
-	print("negative")
+	print("Negative")
 elif(x>0):
-	print("positive")
+	print("Positive")
 else:
-	print("zero")
+	print("Zero")
